@@ -56,3 +56,11 @@ You should see the message Server is running at http://localhost:3000.
 Access Your Files:
 
 On the same machine, you can access the files by going to http://localhost:3000/filename. For example, if you have index.html in the public directory, you can access it at http://localhost:3000/index.html.
+
+
+use this command to run :
+npm init -y
+npm install serve-index
+npm install express
+to Run: node index.js
+
